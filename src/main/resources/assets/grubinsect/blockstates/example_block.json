@@ -1,6 +1,6 @@
 {
 	"variants": {
-		"": {"model": "grubinsect:blocks/example_block"}
+		"": {"model": "grubinsect:block/example_block"}
 		}		
 }
 	
